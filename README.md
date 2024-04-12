@@ -1,6 +1,6 @@
-Olá, Mundo! 🪐 
-Meu nome é Hevelise, mas podem me chamar de Liz; 
-Tenho 33 anos, sou apaixonada por tecnologia e todas as oportunidades incríveis que a mesma nos oferece!
+##Olá, Mundo! 🪐 
+#Meu nome é Hevelise, mas podem me chamar de Liz; 
+#Tenho 33 anos, sou apaixonada por tecnologia e todas as oportunidades incríveis que a mesma nos oferece!
 
 📚 Sou formada em Turismo mas estou em transição de carreira para a área de Tecnologia;
 💻 Estou cursando Análise e desenvolvimento de sistemas na Universidade Faeterj-Petrópolis;
