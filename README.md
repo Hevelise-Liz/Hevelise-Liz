@@ -29,7 +29,7 @@ Tenho 33 anos, sou apaixonada por tecnologia e todas as oportunidades incríveis
 <div>
 
 <a href="https://www.linkedin.com/in/hevelise-liz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://https://hevelise-liz.github.io/MeuPortfolio/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
+<a href="https://hevelise-liz.github.io/MeuPortfolio/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
 <a href = "mailto:liz.souza.dias@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
