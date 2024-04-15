@@ -32,7 +32,4 @@ Tenho 33 anos, sou apaixonada por tecnologia e todas as oportunidades incríveis
 <a href="https://hevelise-liz.github.io/MeuPortfolio/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
 <a href = "mailto:liz.souza.dias@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
-
-
-
+#### Volte sempre que quiser, obrigada pela visita! ✌
