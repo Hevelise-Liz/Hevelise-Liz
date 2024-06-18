@@ -1,5 +1,5 @@
-### <Olá, Mundo!/> 🪐 
-## Meu nome é Hevelise, mas pode me chamar de Liz 😃
+### <Olá, Mundo! /> 🪐 
+## Meu nome é Hevelise, mas pode me chamar de Liz! 😃
 Tenho 33 anos, sou apaixonada por tecnologia e todas as oportunidades incríveis que a mesma nos oferece!
 
 ## Sobre mim 🌻
